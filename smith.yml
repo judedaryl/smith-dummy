@@ -1,0 +1,10 @@
+smith: v1.0.0
+author: Daryl
+repository: https://github.com/judedaryl/smith-dummy
+props:
+  test_prop:
+    type: string
+    display: Test prop
+  testProp2:
+    type: string
+    display: Test Prop 2
